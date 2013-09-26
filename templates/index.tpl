@@ -29,7 +29,7 @@
             
                 <div class="btn btn-lg btn-primary login-submit"> Entrar </div>
             </form>
-            <a href="index">Esqueceu sua senha?</a>
+            <a href="index">Esqueceu sua senha? Clique aqui</a>
         </div><!--.login-container-->
     </div><!--.login-->
 
